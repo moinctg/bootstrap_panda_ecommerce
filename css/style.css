@@ -1,0 +1,22 @@
+
+/* custom stylesheet  */
+
+.panda_background-img{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.catagory img{
+    width: 100px;
+}
+.category-img2{
+    background-color:  orchid;
+}
+
+.panda-btn-buynow{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
